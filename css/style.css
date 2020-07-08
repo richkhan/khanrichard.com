@@ -113,6 +113,10 @@ body {
     border-radius: 10px;
 }
 
+.container-a .my-edu {
+    margin-left: 43%;
+}
+
 .container-a .my-edu .edu{
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
